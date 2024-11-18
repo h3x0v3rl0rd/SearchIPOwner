@@ -46,7 +46,7 @@ def scan_single_ip(ip):
 if __name__ == "__main__":
     save_csv = False
     output = ""
-    print(f"Search IP Owner v{VERSION}\nn3rdyn3xus\n{'-' * 57}\n")
+    print(f"Search IP Owner v{VERSION}\nn3rdh4x0r\n{'-' * 57}\n")
 
     if len(sys.argv) < 2:
         print(f"Usage: {sys.argv[0]} target [option]\n\n\tTarget\tIP address or path to a file that contains IPs\n\t-csv\tSave to a file in CSV format")
