@@ -21,3 +21,5 @@ python3 SearchIPOwner.py iplist.txt
 ```
 python3 SearchIPOwner.py iplist.txt -csv
 ```
+
+![image](https://github.com/user-attachments/assets/461bd955-bbdc-4cf1-aad4-fe054fb07833)
