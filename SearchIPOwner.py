@@ -93,7 +93,7 @@ def scan_single_ip(ip):
 
 # Main logic to handle arguments and file processing
 def main():
-    print(f"Search IP Owner v{VERSION}\nn3rdh4x0r\n{'-' * 57}\n")
+    print(f"Search IP Owner v{VERSION}\nh3x0v3rl0rd\n{'-' * 57}\n")
     
     # Set up argument parsing
     parser = argparse.ArgumentParser(description="Search IP Owner")
